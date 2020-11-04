@@ -16,8 +16,9 @@ Technology used : Selenium+Java+TestNG+Maven.
   3. Negative scenarios
 
 # Guide to use this repo and run the tests
-  1. Clone this repo
+  1. Clone this repo 'https://github.com/Satheeshjey/BlazeDemoUIAutomation.git'
   2. run
+      
       mvn clean install
 
 
